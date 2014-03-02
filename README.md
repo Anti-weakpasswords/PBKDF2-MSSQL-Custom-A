@@ -1,4 +1,4 @@
 PBKDF2-MSSQL-Custom-A
 =====================
 
-MS SQL Server PBKDF2
+Microsoft SQL Server PBKDF2 implementations.
